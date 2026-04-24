@@ -16,7 +16,7 @@ const Footer: React.FC = () => {
             <a href="#" className="p-3 glass rounded-xl hover:bg-neutral-800 transition-colors"><Twitter size={20} /></a>
             <a href="#" className="p-3 glass rounded-xl hover:bg-neutral-800 transition-colors"><Linkedin size={20} /></a>
             <a href="#" className="p-3 glass rounded-xl hover:bg-neutral-800 transition-colors"><Github size={20} /></a>
-            <a href="#" className="p-3 glass rounded-xl hover:bg-neutral-800 transition-colors"><Instagram size={20} /></a>
+            <a href="https://www.instagram.com/nexora.growth02?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank" rel="noopener noreferrer" className="p-3 glass rounded-xl hover:bg-neutral-800 transition-colors"><Instagram size={20} /></a>
           </div>
         </div>
         
